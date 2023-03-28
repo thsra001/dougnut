@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    }
+    html{
+    background-color:#002500;
+    }
+    #tea{
+       width:106vmin;
+       height:60vh;   
+        display: block;
+      margin-left: auto;
+      margin-right: auto;
+    filter: brightness(50%);
+    }
+    #fouraig{
+     position: absolute;
+        left: 50%;
+        transform: translate(-50%, 0);
+     font-weight: bold;
+    color:#004500;
+    font-size:20vh;
+    padding-top:0vh;
+    }
