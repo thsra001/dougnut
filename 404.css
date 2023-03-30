@@ -19,21 +19,17 @@
       height:auto;
     }
    }
-   #fouraig{
-    position: absolute;
-       left: 50%;
-       transform: translate(-50%, 0);
-    font-weight: bold;
-   color:#004500;
-   font-size:20vh;
-   }
-   #gone{
-       position: absolute;
-          left: 50%;
-          transform: translate(-50%, 0);
-       font-weight: bold;
-      color:#004500;
-      font-size:5vh;
-      padding-top:20vh;
+      h1{
+      font-family: Arial, sans-serif;
+      position: absolute;
+      left: 50%;
+      transform: translate(-50%, 0);
+      font-weight: bold;
       text-align:center;
-      }
+      color:#004500;
+    }
+    #fouraig{font-size:20vh;}
+    #gone{
+     font-size:5vh;
+     padding-top:20vh;
+    }
